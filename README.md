@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi , My name is Anuj Kumar and a MERN / FULL STACK WEB DEVELOPER 👋
 
 <!--
 **ANUJ1994k/anuj1994k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

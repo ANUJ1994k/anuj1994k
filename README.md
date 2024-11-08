@@ -12,7 +12,9 @@ Editor: VS code, Eclipse,
 
 Email: anuj1994k@gmail.com
 LinkedIn: www.linkedin.com/in/anuj-kumar94k
-Thanks for your interest to view my profile! Feel free to reach out to me  if you'd like to collaborate on a project and discuss any realtime project scenario to find optimum solution!
+
+
+Thanks for your interest to review my profile! Feel free to reach out to me  if you'd like to collaborate on a project and discuss any realtime project scenario to find optimum solution!
 <!--
 **ANUJ1994k/anuj1994k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

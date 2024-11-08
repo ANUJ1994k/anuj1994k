@@ -1,4 +1,4 @@
-## Hi , My name is Anuj Kumar and a MERN / FULL STACK WEB DEVELOPER 👋
+## Hi , My name is Anuj Kumar and a MERN / FULL STACK /FrontEnd  DEVELOPER 👋
 🌟 Key Skills:
 
 Frontend: JavaScript, React, HTML, CSS, Redux, Chakra UI,tailwind CSS, Bootstrap

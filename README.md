@@ -2,10 +2,14 @@
 🌟 Key Skills:
 
 Frontend: JavaScript, React, HTML, CSS, Redux, Chakra UI,tailwind CSS, Bootstrap
+
 Backend: Node.js, Express, REST APIs
+
 Databases: MongoDB, SQL
 
 Tools: Git, GitHub, Version Control
+
+
 Editor: VS code, Eclipse,
 
 💼 Contact Me:

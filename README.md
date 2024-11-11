@@ -1,4 +1,9 @@
 ## Hi , My name is Anuj Kumar and a MERN / FULL STACK /FrontEnd  DEVELOPER 👋
+
+
+![git decorate image](https://github.com/user-attachments/assets/e06ea25c-2825-4f6c-8b24-c0da46ed47cb)
+![git decorate image2](https://github.com/user-attachments/assets/ee1676a6-008d-4fbf-b86f-8fef2858f311)
+
 🌟 Key Skills:
 
 Frontend: JavaScript, React, HTML, CSS, Redux, Chakra UI,tailwind CSS, Bootstrap
@@ -31,5 +36,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
--->
+
+
